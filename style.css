@@ -1,0 +1,65 @@
+body{
+    background-color: lightsteelblue;
+}
+h1{
+    font: larger;
+    position: relative;
+    font-family: Poppins, sans-serif;
+    font-weight: 1000;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 3%;
+    margin-top: 0%;
+}
+.ponentes_img{
+    text-align: center;
+}
+.ponentes{
+    margin-top: 5%;
+    width: 260px;
+    height: 100;
+    border-radius: 7%;
+}
+.alejandro_acosta{
+    text-align: center;
+    position: relative;
+    font-family: Poppins, sans-serif;
+    font-weight: 1000;
+    font: larger;
+    justify-content: center;
+}
+.alejandro_acosta_img{
+    border-radius: 5%;
+}
+.agustin_alvarez{
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-weight: 1000;
+    font: larger;
+    justify-content: center;
+}
+.alejandro_alfaro{
+    text-align: center;
+    font-family: Poppins,sans-serif;
+    font-weight: 1000;
+    font: larger;
+    justify-content: center;
+    justify-items: center;
+}
+.Marcos_Berry{
+    text-align: center;
+    font-family: Poppins,sans-serif;
+    font-weight: 1000;
+    font: larger;
+    justify-content: center;
+}
+.agustin_alvarez_img{
+    border-radius: 5%;
+}
+.alejandro_alfaro_img{
+    border-radius: 5%;
+}
+.Marcos_Berry_img{
+    border-radius: 5%;
+}
